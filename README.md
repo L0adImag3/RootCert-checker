@@ -1,5 +1,5 @@
 # RootCert-checker
-Script to check your installed root-certificates against a list (CSV) of trustetd ones
+Script to check your installed root-certificates against a list (CSV) of trustetd ones.<br>
 Source of uploaded csv file: https://gallery.technet.microsoft.com/Trusted-Root-Program-8895e873 <br>
 Version: Oktober 30
 
