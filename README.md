@@ -1,6 +1,9 @@
 # RootCert-checker
 Script to check your installed root-certificates against a list (CSV) of trustetd ones
 
+i'm not very expirienced in powerhsell :) 
+if you have recomendations -> feel free to contribute.
+
 Usage:
 .\root_checker.ps1 <path_to_csv> <delimeter>
  
